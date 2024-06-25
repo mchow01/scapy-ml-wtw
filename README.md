@@ -17,4 +17,4 @@ This repository contains a Python program that reads in a packet capture (PCAP) 
 4. `source env/bin/activate` # activate the Python virtual environment
 5. `pip3 install scapy` # install Scapy
 6. `python3 pcaptools.py` # output should be a number of lines (5997 to be exact), and ends with "There were 5997 packets in sniffed.pcap"
-7. `exit` # this will exit the Python virtual environment
+7. `deactivate` # this will exit the Python virtual environment
