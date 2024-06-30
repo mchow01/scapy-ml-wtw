@@ -18,3 +18,10 @@ This repository contains a Python program that reads in a packet capture (PCAP) 
 5. `pip3 install scapy` # install Scapy
 6. `python3 pcaptools.py` # output should be a number of lines (5997 to be exact), and ends with "There were 5997 packets in sniffed.pcap"
 7. `deactivate` # this will exit the Python virtual environment
+
+# Additional Resources and References
+* https://github.com/StopDDoS/packet-captures/blob/main/pkt.TCP.synflood.spoofed.pcap
+* https://github.com/H21lab/Anomaly-Detection
+* https://cryptokait.com/2020/09/07/spotting-anomalies-in-pcaps/
+* https://www.h21lab.com/tools/anomaly-detection
+* https://isc.sans.edu/diary/BB17+distribution+Qakbot+Qbot+activity/29592/
